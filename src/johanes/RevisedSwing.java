@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tesssss;
+package johanes;
 
 /**
  *
  * @author acer
  */
 import javax.swing.JFrame;
-public class Tesssss {
+public class RevisedSwing {
  public static void main(String[] args) {
     // Create a frame
     JFrame frame = new JFrame("Revised Simplest Swing");
